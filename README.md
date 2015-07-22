@@ -1,2 +1,2 @@
 # CPA_paper
-Submission to CPA - Longo and Kelley 2015
+Draft submission to CPA - Longo and Kelley 2015. Not for quotation or citation. 
