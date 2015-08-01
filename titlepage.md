@@ -11,3 +11,7 @@ Acknowledgements: This work was supported in part by the National Science Founda
 Justin Longo was, at the time of writing, the Post-Doctoral Fellow in Open Governance, [Center for Policy Informatics](https://github.com/ASU-CPI), Arizona State University, Phoenix, Arizona. As of July 1 2015, he is assistant professor and Cisco Systems Research Chair, [Johnson-Shoyama Graduate School of Public Policy](https://github.com/JSGS), University of Regina, Regina, Saskatchewan.
 
 Tanya Kelley is a doctoral candidate, School of Public Affairs, Arizona State University.
+
+___
+
+Next: [Introduction](https://github.com/JSGS/CPA_paper/blob/master/introduction.md)
