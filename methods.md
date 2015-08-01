@@ -1,3 +1,5 @@
+Previous: [Box 1](https://github.com/JSGS/CPA_paper/blob/master/box1.md)
+
 #Methods
 
 This exploratory study develops a cross sectional picture of GitHub use in Canadian public administration. Data for this study was collected in the summer and autumn of 2014 using publicly available data on GitHub supplemented by Internet-based searches, an online survey of public servants in Canada found to have a GitHub user account and semi-structured interviews with two public service leaders in the GitHub space and three senior executives with knowledge of collaboration generally and GitHub in particular. 
