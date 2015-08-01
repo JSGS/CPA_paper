@@ -1,4 +1,4 @@
-previous: [Title Page](https://github.com/JSGS/CPA_paper/blob/master/titlepage.md)
+Previous: [Title Page](https://github.com/JSGS/CPA_paper/blob/master/titlepage.md)
 
 #GitHub use in public administration in Canada: Early experience with a new open collaboration tool
 
