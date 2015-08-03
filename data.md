@@ -4,8 +4,9 @@ Previous: [Methods](https://github.com/JSGS/CPA_paper/blob/master/methods.md)
 ##Canadian Government Organizations on GitHub
 The “Government GitHub Community” included twenty-five self-registered Canadian public sector organizations as of September 2014, with sixteen federal departments and agencies, six provincial/territorial governments and four local governments. Through the search methods described above, we found fifteen additional organizational accounts (for a total of n = 40), including seven federal agencies (n = 23), five provincial/territorial agencies (n = 10), two First Nations governments (n = 2) and one local government (n = 5). These organizations range from those currently active on GitHub to organizations that appear to have little activity other than having created an account (see table 1). If the number of public members for an organization is zero, that may either reflect a setting on the organization account (i.e., all members are hidden by default) or all members have themselves elected to remain hidden. Thus the total number of members is usually higher than the public number shown and obviously higher if the number of public members is zero. “Public repos” are the total number of repos publicly viewable, regardless of whether they were created by the organization or were forked from elsewhere (it cannot be known whether an organization with no public repos means that all repos are private and hidden, or that there are no repos of either kind in the account). The type of activity noted is based on the organizational description or the programming frameworks and languages used in the public repos. “Indeterminate” means that there is no publicly viewable activity upon which to judge the type of work being done within the organization account and no description was provided as to what the account’s purpose was. 
 
-[see table 1]()
-![alt text](https://www.dropbox.com/s/34uve2fnma239q3/Table1.png?dl=0 "Table 1")
+![alt text][logo]
+
+[logo]: https://www.dropbox.com/s/34uve2fnma239q3/Table1.png?dl=0 "Table 1"
 
 
 ##Canadian Public Servants on GitHub
