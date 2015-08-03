@@ -1,3 +1,5 @@
+Previous: [Conclusion](https://github.com/JSGS/CPA_paper/blob/master/conclusion.md)
+
 Agranoff, Robert, and Michael McGuire. 2011. “Big questions in public network management research.” Journal of public administration research and theory 11 (3): 295-326.
 
 Ajzen, Icek. 1991. “The theory of planned behavior.” Organizational behavior and human decision processes 50 (2): 179-211. 
