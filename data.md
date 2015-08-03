@@ -42,8 +42,10 @@ We began each interview asking respondents to characterize their understanding o
 
 
 ___
-Box 3: The Web Experience Toolkit: Using GitHub as a Platform for Collaboration
+*Box 3: The Web Experience Toolkit: Using GitHub as a Platform for Collaboration*
+
 The “Web Experience Toolkit” or WET is an open source code library for building websites that are accessible, usable, interoperable, mobile friendly and multi-lingual. Deployed on GitHub (https://github.com/wet-boew), the library contains reusable components provided for free as open source software under an MIT licence for use by departments and external Web developers. WET conforms to the Web Content Accessibility Guidelines (version 2.0; see http://www.w3.org/TR/WCAG20) and eases compliance with the TBS standards on Web Accessibility (http://www.tbs-sct.gc.ca/ws-nw/wa-aw/index-eng.asp), Web Usability (http://www.tbs-sct.gc.ca/ws-nw/wu-fe/index-eng.asp) and Web Interoperability (http://www.tbs-sct.gc.ca/ws-nw/wi-iw/index-eng.asp). While TBS does not require the use of the WET library on federal websites, “[i]t is highly recommended for use on Government of Canada websites” (http://www.tbs-sct.gc.ca/ws-nw/wa-aw/wet-boew/index-eng.asp).
+
 The WET initiative is led by the Treasury Board of Canada Secretariat, collaboratively developed and maintained by Government of Canada departments and external web communities, and is particularly remarkable for its agility and rapid development when compared to other government-led software projects (McMillan 2013a). Initiated in 2009 in response to a cross-departmental need for reusable web templates and components that would make it easier to implement website and web app requirements, the move to GitHub was prompted in part as a response to the Federal Court of Canada ruling in 2012 requiring the federal government make its websites accessible to disabled Canadians (see box 4). The WET is in use by developers around the world including provincial governments (e.g., Ontario.ca) and local governments (e.g., Hamilton.ca) in Canada (Boots 2013). Developers and interested supporters in the Web Experience Toolkit community meet annually in Ottawa at CodeFest (http://wet-boew.github.io/codefest) and the toolkit is continually being developed. 
 ___
 
@@ -54,10 +56,14 @@ Two themes emerged on GitHub adoption: first was the necessity to innovate based
 
 
 ___
-Box 4: Jodhan v. Canada (Attorney General): A Legal Impetus for Innovation
+*Box 4: Jodhan v. Canada (Attorney General): A Legal Impetus for Innovation*
+
 The Canadian Charter of Rights and Freedoms and the Canadian Human Rights Act, supplemented by provincial human rights acts, are the foundation upon which the legal bases for inclusive rights for those with disabilities in Canada are ensured (Prince 2009). Specifically, Section 15 of the Charter guarantees the equality of rights of Canadians, including Canadians with disabilities. Zaparyniuk and Montgomerie (2005) speculated several years ago that government websites inaccessible to those with disabilities could be subject to a section 15 Charter challenge and the case of Donna Jodhan has borne that out. 
+
 Jodhan, a legally blind Toronto resident, sued the Government of Canada in 2006 because citizen services made available via federal websites were inaccessible to her, despite the use of screen reader technology and her own technical proficiency. The government argued that the accessibility of their websites and forms was not subject to a section 15 Charter ruling because the government provided alternative means of communication such as telephone, regular mail and in-person consultation. 
+
 On February 9 2011, the Federal Court rejected the government’s arguments and found that the inaccessibility of government websites was a violation of Jodhan’s Charter equality rights. The ruling stated that the government had a constitutional obligation to make every website within the federal hierarchy accessible to disabled clients and gave the government 15 months to achieve this (see Jodhan v. Canada (Attorney General), [2012]. FCA 161 retrieved from http://www.canlii.org/en/ca/fct/doc/2010/2010fc1197/2010fc1197.html). 
+
 The federal government subsequently appealed the decision. On May 30 2012, the Federal Court of Appeal unanimously rejected the federal government's appeal. However, the Federal Court ruling was amended to apply to the TBS only, removed the court’s supervision of the implementation of the decision and restricted the Charter implications of the ruling (see Canada (Attorney General) v. Jodhan, [2012] FCA 161 retrieved from http://www.canlii.org/en/ca/fca/doc/2012/2012fca161/2012fca161.html). Despite this setback (Council of Canadians with Disabilities 2013), the impact of the initial Federal Court ruling had already set in motion the series of events that would lead to the development of the Web Experience Toolkit (see box 3), implementing new TBS web standards on accessibility, usability and interoperability. 
 ___
 
